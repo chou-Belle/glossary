@@ -1,0 +1,29 @@
+section_name: Genders
+terms:
+  - male:
+      name: Male
+      definition: A person who has the identity and characteristics of a man.
+  - female:
+      name: Female
+      definition: A person who has the identity and characteristics of a woman.
+  - cdtv:
+      name: Crossdresser/Transvestite
+      definition: A person who likes to dress and act in a style or manner traditionally associated with the opposite gender.
+  - transgender:
+      name: Transvestite
+      definition: A person whose sense of personal identity and gender does not correspond with their biological sex assigned at birth.
+  - gender_fluid:
+      name: Gender Fluid
+      definition: A person who fluctuates between more than one gender, or between having a gender and not having one.
+  - genderqueer:
+      name: Genderqueer
+      definition: A person whose gender identity falls outside the male-female binary.
+  - intersex:
+      name: Intersex
+      definition: A person who is born with a reproductive or sexual anatomy that doesn't seem to fit the typical definitions of female or male.
+  - butch:
+      name: Butch
+      definition: A person who is typically female-identified whose social and relationship roles are perceived by many as being masculine, often having a lesbian, gay, or queer orientation.
+  - femme:
+      name: Femme
+      definition: A person who has an appearance or other characteristics traditionally seen as feminine, often having a lesbian, gay, or queer orientation.
