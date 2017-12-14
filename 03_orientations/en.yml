@@ -9,6 +9,9 @@ terms:
   - bisexual:
       name: Bisexual
       definition: A person who is attracted romantically and/or sexually to another gender as well as their own.
+  - bi_curious:
+      name: Bi-curious
+      definition: A person who is curious about being sexual with someone of the same sex, but does not consider themselves to be bisexual.
   - homoflexible:
       name: Homoflexible
       definition: A person who identifies as primarily homosexual but can occasionally find the opposite gender appealing in a sexual and/or romantic way.
@@ -24,9 +27,18 @@ terms:
   - pansexual:
       name: Pansexual
       definition: A person who is attracted to and may form sexual and romantic relationships with males, females, and people who identify outside the gender binary.
-  - fluctuating:
-      name: Fluctuating/Evolving
-      definition: A person whose sexual responsiveness is changing/evolving.
   - asexual:
       name: Asexual
       definition: A person who has low or absent sexual interest or desire for people of any gender.
+  - demisexual:
+      name: Demisexual
+      description: A person who does not experience sexual attraction unless they form a strong emotional connection with someone. Demisexual falls under the asexual umbrella.
+  - greysexual:
+      name: Greysexual
+      description: A person who experiences sexual attraction under very limited and specific circumstances. Greysexual is sometimes referred to as grey-asexual and falls under the asexual umbrella.
+  - sapiosexual:
+      name: Sapiosexual
+      description: A person who is sexually attracted to someone’s intelligence.
+  - fluctuating:
+      name: Fluctuating/Evolving
+      definition: A person whose sexual responsiveness is changing/evolving.
