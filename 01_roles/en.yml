@@ -33,6 +33,9 @@ terms:
   - bottom:
       name: Bottom
       definition: A person who agrees to give up control or receives the stimulation during kinky activities that may or may not include submission.
+  - disciplinarian:
+      name: Disciplinarian
+      definition: A person who believes in or practices firm discipline.
   - sadist:
       name: Sadist
       definition: A person who enjoys inflicting humiliation or pain consensually on someone, whether it’s emotionally, mentally or physically.
@@ -66,12 +69,18 @@ terms:
   - princess:
       name: Princess
       definition: A person who requires a very particular treatment of praise, care, and attention.
+  - cougar:
+      name: Cougar
+      definition: An older woman who is primarily interested in men significantly younger than her.
   - slut:
       name: Slut
       definition: A person who embraces the freedom to engage in sexual activity in accordance with their desires, with one or multiple partners, regardless of conventional values.
   - doll:
       name: Doll
       definition: A person who enjoys objectification and wants to be transformed through one's own and/or outside forces into a living doll.
+  - toy:
+      name: Toy
+      definition: One who is treated and played with like a toy instead of a person.
   - sissy:
       name: sissy
       definition: A male-identified person who engages in feminization and sometimes humiliation in order to reach a different emotional or mental state.
@@ -96,9 +105,6 @@ terms:
   - spankee:
       name: Spankee
       definition: A person who enjoys being spanked.
-  - furry:
-      name: Furry
-      definition: A person who identifies with a particular anthropomorphic animal or creature, often wearing costumes or tokens representing the animal.
   - leatherman:
       name: Leatherman
       definition: A person who has a fetish for leather and/or espouses the traditions and protocols of a traditional style of BDSM that arose out of the combination of male homosexual BDSM with motorcycle clubs ("biker culture") after World War II.
@@ -107,6 +113,9 @@ terms:
       definition: A person who has a fetish for leather and/or espouses the traditions and protocols of a traditional style of BDSM that arose out of the combination of male homosexual BDSM with motorcycle clubs ("biker culture") after World War II.
   - leather_daddy:
       name: Leather Daddy
+      definition: An authority figure within the leather community or tradition.
+  - leather_mommy:
+      name: Leather Mommy
       definition: An authority figure within the leather community or tradition.
   - leather_top:
       name: Leather Top
@@ -138,6 +147,12 @@ terms:
   - bull:
       name: Bull
       definition: A man who engages in sex with a woman whose partner enjoys the cuckold dynamic.
+  - hotwife:
+      name: Hotwife
+      definition: A married woman who may pursue sexual relationships with men other than her husband, oftentimes to humiliate or degrade him. Her husband has full knowledge of her activities and consents to them.
+  - cuckoldress:
+      name: Cuckoldress
+      definition: A woman who may pursue sexual relationships with men other than her partner, oftentimes to humiliate or degrade her partner. Her partner has full knowledge of her activities and consents to them.
   - cuckold:
       name: cuckold
       definition: A man who enjoys the humiliation and/or voyeuristic experience of watching or knowing their partner has sex with someone else.
@@ -160,7 +175,7 @@ terms:
       name: Middle
       definition: A person who identifies with or exhibits a younger mindset and/or behaviors, but feels more like a teen or pre-teen than a little.
   - little:
-      name: little
+      name: Little
       definition: A person who identifies with or enjoys exhibiting a child-like mindset and/or behaviors. Their relationships may or may not include a power exchange component.
   - brat:
       name: Brat
@@ -171,6 +186,12 @@ terms:
   - babyboy:
       name: babyboy
       definition: A person who seeks a parental and/or nurturing figure in a relationship, with some identifying as or role playing as a young boy. Also used as an endearment for a male-identified submissive.
+  - handler:
+      name: Handler
+      definition: A person with a dominant-role in a pet-play dynamic.
+  - furry:
+      name: Furry
+      definition: A person who identifies with a particular anthropomorphic animal or creature, often wearing costumes or tokens representing the animal.
   - pet:
       name: pet
       definition: A person who may or may not identify with animal play who is treated like they are beloved and owned.
@@ -183,6 +204,12 @@ terms:
   - pony:
       name: pony
       definition: A person who enjoys roleplay as a pony or horse.
+  - drag_king:
+      name: Drag King
+      definition: A person, typically female-identified, who dresses in clothing of the opposite sex and is often exaggerated for the purpose of entertainment or fashion.
+  - drag_queen:
+      name: Drag Queen
+      definition: A person, typically male-identified, who dresses in clothing of the opposite sex and is often exaggerated for the purpose of entertainment or fashion.
   - evolving:
       name: Evolving
       definition: A person who is undergoing gradual change.
