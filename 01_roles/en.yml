@@ -219,3 +219,9 @@ terms:
   - vanilla:
       name: Vanilla
       definition: A person with without any identified kinks or fetishes.
+  - artist:
+      name: Artist
+      definition: A person who is using this side mainly for artistical reasons and/or to share own content.
+  - house:
+      name: House
+      definition: An account of an organisation, kink-space, or group, normally managed by more than one human.
